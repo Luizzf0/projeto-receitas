@@ -1,0 +1,38 @@
+#inicial {
+    border: 3px solid white;
+    border-radius: 15%;
+    
+    
+}
+
+div.imagens {
+    float: left;
+    margin-left: 40px;
+    padding-left: 100px;
+    padding-top: 50px;
+    
+    
+     
+ }
+
+ body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(../images/fundopreto.webp)  ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%; 
+    
+}
+
+.box {
+            
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    border-color: aqua;
+    border: 2px solid white;
+    border-width: 5px;
+    font-size: larger;
+    margin: 50px;
+    
+}
